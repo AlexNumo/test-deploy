@@ -7,7 +7,8 @@ const Style = styled(NavLink)`
   border: 2px solid;
   background-color: #b7d7d7;
   padding: 10px 10px 10px 10px;
-`
+`;
+
 const Navigation = () => {
   return (
     <>
