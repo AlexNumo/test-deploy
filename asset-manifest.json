@@ -1,15 +1,35 @@
 {
   "files": {
     "main.css": "/test-deploy/static/css/main.7acaea2f.css",
-    "main.js": "/test-deploy/static/js/main.b7ed97aa.js",
+    "main.js": "/test-deploy/static/js/main.0c0bbda9.js",
+    "Navigation.js": "/test-deploy/static/js/Navigation.8473601d.chunk.js",
+    "RenderMovies.js": "/test-deploy/static/js/RenderMovies.27515210.chunk.js",
+    "SearchMoviesPage.js": "/test-deploy/static/js/SearchMoviesPage.09b77e9a.chunk.js",
+    "PreviewPage.js": "/test-deploy/static/js/PreviewPage.113bc092.chunk.js",
+    "ActorPage.js": "/test-deploy/static/js/ActorPage.ef9f411c.chunk.js",
+    "ReviewPage.js": "/test-deploy/static/js/ReviewPage.a7d07ec5.chunk.js",
     "static/js/787.14e4bc02.chunk.js": "/test-deploy/static/js/787.14e4bc02.chunk.js",
+    "static/js/774.2741968a.chunk.js": "/test-deploy/static/js/774.2741968a.chunk.js",
+    "static/js/317.70275c99.chunk.js": "/test-deploy/static/js/317.70275c99.chunk.js",
+    "static/js/140.756174a6.chunk.js": "/test-deploy/static/js/140.756174a6.chunk.js",
+    "static/js/144.6da51ef9.chunk.js": "/test-deploy/static/js/144.6da51ef9.chunk.js",
     "index.html": "/test-deploy/index.html",
     "main.7acaea2f.css.map": "/test-deploy/static/css/main.7acaea2f.css.map",
-    "main.b7ed97aa.js.map": "/test-deploy/static/js/main.b7ed97aa.js.map",
-    "787.14e4bc02.chunk.js.map": "/test-deploy/static/js/787.14e4bc02.chunk.js.map"
+    "main.0c0bbda9.js.map": "/test-deploy/static/js/main.0c0bbda9.js.map",
+    "Navigation.8473601d.chunk.js.map": "/test-deploy/static/js/Navigation.8473601d.chunk.js.map",
+    "RenderMovies.27515210.chunk.js.map": "/test-deploy/static/js/RenderMovies.27515210.chunk.js.map",
+    "SearchMoviesPage.09b77e9a.chunk.js.map": "/test-deploy/static/js/SearchMoviesPage.09b77e9a.chunk.js.map",
+    "PreviewPage.113bc092.chunk.js.map": "/test-deploy/static/js/PreviewPage.113bc092.chunk.js.map",
+    "ActorPage.ef9f411c.chunk.js.map": "/test-deploy/static/js/ActorPage.ef9f411c.chunk.js.map",
+    "ReviewPage.a7d07ec5.chunk.js.map": "/test-deploy/static/js/ReviewPage.a7d07ec5.chunk.js.map",
+    "787.14e4bc02.chunk.js.map": "/test-deploy/static/js/787.14e4bc02.chunk.js.map",
+    "774.2741968a.chunk.js.map": "/test-deploy/static/js/774.2741968a.chunk.js.map",
+    "317.70275c99.chunk.js.map": "/test-deploy/static/js/317.70275c99.chunk.js.map",
+    "140.756174a6.chunk.js.map": "/test-deploy/static/js/140.756174a6.chunk.js.map",
+    "144.6da51ef9.chunk.js.map": "/test-deploy/static/js/144.6da51ef9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b7ed97aa.js"
+    "static/js/main.0c0bbda9.js"
   ]
 }
